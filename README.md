@@ -1,6 +1,6 @@
 # Advanced PGP Web Key Directory (WKD) Worker
 
-An enterprise-grade, serverless implementation of the **Advanced WKD Method** built for Cloudflare Workers. This project dynamically serves raw binary GPG public keys directly from Cloudflare KV storage, bypassing the need for file trees or static text files, and completely hiding your git commit history from public email crawlers.
+An enterprise-grade, serverless implementation of the **Advanced WKD Method** built for Cloudflare Workers. This project dynamically serves raw binary GPG public keys directly from Cloudflare KV storage, bypassing the need for file trees or static text files.
 
 ## Features
 
