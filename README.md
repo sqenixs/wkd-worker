@@ -32,4 +32,4 @@ npx wrangler kv key put --namespace-id="YOUR_KV_NAMESPACE_ID" "YOUR_32_CHAR_HASH
 
 To verify that your serverless architecture aligns perfectly with global IETF standards, run an automated audit against the official validation engine:
 
-- **WKD Compliance Test:** [WebKeyDirectory.com](
+- **WKD Compliance Test:** [https://www.webkeydirectory.com]
