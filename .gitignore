@@ -3,6 +3,7 @@
 !worker.js
 !wrangler.jsonc
 !.gitignore
+!README.md
 
 # Block Node dependencies
 node_modules/
