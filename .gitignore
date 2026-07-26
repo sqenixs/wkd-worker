@@ -4,6 +4,7 @@
 !wrangler.jsonc
 !.gitignore
 !README.md
+!LICENSE
 
 # Block Node dependencies
 node_modules/
