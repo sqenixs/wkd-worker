@@ -4,8 +4,10 @@
 !wrangler.jsonc
 !.gitignore
 !README.md
+!LICENSE
+!package-lock.json
+!package.json
 
 # Block Node dependencies
 node_modules/
-package-lock.json
-package.json
+
